@@ -64,7 +64,7 @@ To follow the DevSecOps and SonarQube flow end-to-end, these three sessions will
 3. **Maven Tutorial for DevOps | Maven Beginner Tutorial**
 
    * YouTube Video: [Maven Tutorial for DevOps](https://www.youtube.com/watch?v=3OKc5y_3wMM&ab_channel=CloudWithVarJosh)
-   * GitHub Notes: [Maven Lecture Notes](https://github.com/CloudWithVarJosh/YouTube-Standalone-Lectures/tree/main/Lectures/08-maven)  
+   * GitHub Notes: [Maven Lecture Notes](https://github.com/CloudWithVarJosh/Maven-For-DevOps/blob/main/README.md)  
      **Why this pre-requisite:** In this lecture SonarQube is wired through **Maven phases**, so knowing how Maven builds, tests and packages your app makes it easier to understand exactly *when* SAST (Sonar) runs.
 
 
