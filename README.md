@@ -49,14 +49,14 @@ To follow the DevSecOps and SonarQube flow end-to-end, these three sessions will
 1. **Modern SDLC Explained | Build Automation & Real-World Insights**
 
    * YouTube Video: [Modern SDLC Explained](https://youtu.be/imEHsgvJbYo)
-   * GitHub Notes: [ Modern SDLC](https://github.com/CloudWithVarJosh/Jenkins-Basics-To-Production/tree/main/Day%2001)
+   * GitHub Notes: [ Modern SDLC](https://github.com/CloudWithVarJosh/Jenkins-Basics-To-Production/tree/main/Day%2001)  
      **Why this pre-requisite:** Gives you the big picture of how modern SDLC, builds and environments are structured, so you know *where* DevSecOps controls will eventually sit.
 
 
 2. **CI/CD Explained | How Pipelines Work & Branching Strategies**
 
    * YouTube Video: [CI/CD Explained](https://www.youtube.com/watch?v=szPE1NKc614&ab_channel=CloudWithVarJosh)
-   * GitHub Notes: [CI/CD & Branching Strategies](https://github.com/CloudWithVarJosh/Jenkins-Basics-To-Production/tree/main/Day%2002)
+   * GitHub Notes: [CI/CD & Branching Strategies](https://github.com/CloudWithVarJosh/Jenkins-Basics-To-Production/tree/main/Day%2002)  
      **Why this pre-requisite:** Explains pipeline stages, promotions and branching, so it’s clear *at which stage* in CI/CD we plug in SAST, DAST and SonarQube quality gates.
 
 > Both the above videos are from my **Jenkins: Basics to Production** course, but the concepts are **tool-agnostic** and give you a solid, real-world view of how production-grade CI/CD implementations are designed.
@@ -64,7 +64,7 @@ To follow the DevSecOps and SonarQube flow end-to-end, these three sessions will
 3. **Maven Tutorial for DevOps | Maven Beginner Tutorial**
 
    * YouTube Video: [Maven Tutorial for DevOps](https://www.youtube.com/watch?v=3OKc5y_3wMM&ab_channel=CloudWithVarJosh)
-   * GitHub Notes: [Maven Lecture Notes](https://github.com/CloudWithVarJosh/YouTube-Standalone-Lectures/tree/main/Lectures/08-maven)
+   * GitHub Notes: [Maven Lecture Notes](https://github.com/CloudWithVarJosh/YouTube-Standalone-Lectures/tree/main/Lectures/08-maven)  
      **Why this pre-requisite:** In this lecture SonarQube is wired through **Maven phases**, so knowing how Maven builds, tests and packages your app makes it easier to understand exactly *when* SAST (Sonar) runs.
 
 
