@@ -423,7 +423,7 @@ SonarQube currently requires Java 17.
 
 ```bash
 sudo apt-get update
-sudo apt-get install -y openjdk-17-jre
+sudo apt-get install -y openjdk-21-jre
 java -version
 ```
 
